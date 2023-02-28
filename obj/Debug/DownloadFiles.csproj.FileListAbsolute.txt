@@ -1,0 +1,16 @@
+C:\Users\FlexPudge\Desktop\DownloadFiles\bin\Debug\DownloadFiles.exe.config
+C:\Users\FlexPudge\Desktop\DownloadFiles\bin\Debug\DownloadFiles.exe
+C:\Users\FlexPudge\Desktop\DownloadFiles\bin\Debug\DownloadFiles.pdb
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.csproj.AssemblyReference.cache
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\MainWindow.g.cs
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\App.g.cs
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles_MarkupCompile.cache
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles_MarkupCompile.lref
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\MainWindow.baml
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.g.resources
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.Properties.Resources.resources
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.csproj.GenerateResource.cache
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.csproj.CoreCompileInputs.cache
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.exe
+C:\Users\FlexPudge\Desktop\DownloadFiles\obj\Debug\DownloadFiles.pdb
